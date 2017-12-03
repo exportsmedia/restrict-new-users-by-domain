@@ -1,0 +1,2 @@
+# restrict-new-users-by-domain
+Restrict New Users by Domain makes it easy to whitelist or blacklist email domains that new users can use when registering. If using the whitelist, only new users who enter an email domain on the whitelist will be allowed to create an account. If using the blacklist, a user who enters an email domain on the blacklist will not be allowed to register. This WordPress plugin is NOT multisite compatible.
