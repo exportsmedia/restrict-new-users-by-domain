@@ -15,7 +15,7 @@ Restrict New Users by Domain makes it easy to whitelist or blacklist email domai
 * Customize the error message for restricted domains
 * Uses built in WordPress actions, no CSS or JS
 
-= THIS PLUGIN DOES NOT WORK WITH MULTISITE =
+* THIS PLUGIN DOES NOT WORK WITH MULTISITE *
 
 
 ## Installation 
@@ -26,15 +26,15 @@ Restrict New Users by Domain makes it easy to whitelist or blacklist email domai
 
 ## Frequently Asked Questions 
 
-= Can I use both the Whitelist and the Blacklist =
+* Can I use both the Whitelist and the Blacklist *
 
 No. Only one can be used. If both lists have domains saved in them, then only the whitelist will be used.
 
-= Can I change the default error message =
+* Can I change the default error message *
 
 Yes. You can customize the error message on the settings page.
 
-= Does this plugin work with Multisite =
+* Does this plugin work with Multisite *
 
 No. Multisite already has this ability built in. You do not need this plugin if you are running a multisite.
 
@@ -52,12 +52,12 @@ Restrict New Users by Domain makes it easy to whitelist or blacklist email domai
 
 ## Changelog 
 
-= 1.0.2 =
+* 1.0.2 *
 * Fix case sensitivity when validating domains as suggested by user @john168
 
-= 1.0.1 =
+* 1.0.1 *
 * Fix multisite activation error
 
-= 1.0 =
+* 1.0 *
 * Initial Release
 
